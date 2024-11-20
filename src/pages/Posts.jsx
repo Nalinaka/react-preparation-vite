@@ -73,6 +73,7 @@ const Posts = () => {
 export default Posts;
 
 
+// MY NOTES
 // Using query strings and you need to fetch it
 // This is done by useParams. Steps:
 // 1) Import useParams (above line 2)
